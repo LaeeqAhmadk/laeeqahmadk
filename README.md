@@ -9,7 +9,7 @@
 
 <img align="right" alt="insights" width="400" src="https://cdn.dribbble.com/users/980520/screenshots/2859415/monitoring.gif"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laeeq-ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="Laeeq-Ahmad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=laeeqahmadk&label=Profile%20views&color=0e75b6&style=flat" alt="Laeeq-Ahmad" /> </p>
 
 - 🌱 I’m currently learning **Python, BI, mySQL, QGIS, ML**
 
