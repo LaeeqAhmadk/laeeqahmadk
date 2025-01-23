@@ -51,4 +51,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laeeqahmadk&show_icons=true&locale=en" alt="GitHub Streak" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=laeeqahmadk)](https://git.io/streak-stats)
